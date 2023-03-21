@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# pretty much just followed the "general strategy" using awk.
 for file in *.txt
 do
   filename=$(basename "$file")
