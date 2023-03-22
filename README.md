@@ -1,0 +1,2 @@
+# COSC 365 Programming Assignment 2 - BASH and awk
+This programming assignment is designed to teach us how to use BASH to compose standard UNIX programs in powerful ways. Further information can be found in pa_2.pdf
